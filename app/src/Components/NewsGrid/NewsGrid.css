@@ -1,0 +1,15 @@
+.grid-message {
+    text-align: center;
+    margin-top: 1rem;
+    font-weight: 500;
+    font-size: 1.2em;
+}
+
+.grid-content {
+    padding: .7rem;
+}
+.grid-title {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    font-size: 1.4em;
+}

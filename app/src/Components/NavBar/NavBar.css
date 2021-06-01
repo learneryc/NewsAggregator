@@ -1,0 +1,32 @@
+.nav-bar {
+    background: linear-gradient(to right, #202f51 50%, #445ea7);
+    padding: 0 10px;
+}
+
+#basic-navbar-nav Nav Nav.Link {
+    color: white;
+}
+
+.nav-bar-bookmark-container {
+    cursor: auto;
+}
+
+.nav-bar-bookmark {
+    color:white;
+    margin-right: .5rem;
+    cursor: pointer;
+}
+
+.switch-source {
+    color: white;
+    margin: 0 .5rem;
+    cursor: default;
+}
+
+@media screen and (max-width: 992px) {
+    .switch-source {
+        margin: 0;
+        padding: .5rem 0;
+    }
+}
+

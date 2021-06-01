@@ -1,0 +1,19 @@
+.modal-share-title.modal-title {
+    font-size: 1.2rem;
+}
+
+.modal-share-body {
+    text-align: center;
+}
+
+.modal-share-text {
+    font-size: 1.2rem;
+    font-weight: 500;
+    margin-bottom: .5rem;
+}
+
+.item-share {
+    margin-left: .5rem;
+    color: #445ea7;
+    cursor: pointer;
+}

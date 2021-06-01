@@ -1,0 +1,37 @@
+.item-section {
+    background-color: #6f757b;
+    color: white;
+    margin-left: .3rem;
+    user-select: none;
+}
+
+.item-section.WORLD {
+    background-color: #7555f6;
+}
+
+.item-section.POLITICS {
+    background-color: #579288;
+}
+
+.item-section.BUSINESS {
+    background-color: #5b95e5;
+}
+
+.item-section.TECHNOLOGY {
+    background-color: #d1db59;
+    color: black;
+}
+
+.item-section.SPORT, .item-section.SPORTS {
+    background-color: #eec35c;
+    color: black;
+}
+
+.item-section.GUARDIAN {
+    background-color: #14284a;
+}
+
+.item-section.NYTIMES {
+    background-color: #dddddd;
+    color: black;
+}
